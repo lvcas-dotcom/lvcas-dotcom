@@ -7,6 +7,7 @@ Analysis and Systems Development student focused on the data field with experien
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/Postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <img src="https://github.com/devhetor/assets/blob/363537a35258457af6073acd0cc5d5882cd9f5d1/beatriz-conrado-happyjoy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
