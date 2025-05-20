@@ -1,48 +1,69 @@
-<h1 align="center">
-Analysis and Systems Development student focused on the data field with experience in SQL and Python.</h1>
+![Banner LinkedIn](https://i.imgur.com/HzLJjoN.png)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bem-vindo(a)+ao+meu+perfil+!">
+  </a>
+</p>
 
-## My Skills
+---
 
-#### Main Stack:
+## 🚀 Sobre Mim
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/Postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar**
+- 🛠️ Desenvolvedor **FullStack** 
+- 💼 Analista de Dados na **Tributech**  
+  <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
 
-<img src="https://github.com/devhetor/assets/blob/363537a35258457af6073acd0cc5d5882cd9f5d1/beatriz-conrado-happyjoy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-#### Studying in this moment:
+### 🔹 Linguagens e Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,nextjs" height="40"/>
+</p>
 
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+### 🔹 Desenvolvimento Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" height="40"/>
+</p>
 
-#### Databases:
+### 🔹 Banco de Dados e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver,dbeaver,datagrip" height="40"/>
+  <img src="https://img.shields.io/badge/Pentaho-003A70?style=flat-square&logoColor=white&labelColor=003A70&label=Pentaho" height="25"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/Postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+### 🔹 DevOps & Versionamento
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,kali,popos,postman,docker" height="40"/>
+</p>
 
-#### Workstation Tools:
+---
 
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
-![Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora)&nbsp;
+## 📊 Estatísticas do GitHub
 
-### Tools
+<div align="center"> <a href="https://github.com/lvcas-dotcom"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filiperuizb&show_icons=true&theme=dark&locale=pt-br&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&layout=compact&theme=dark&hide_border=true"/> </a> </div>
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+---
 
-&nbsp;
-&nbsp;
+## 🤝 Vamos nos Conectar!
 
-## Contacts:
-<div> 
-</a>
-<a href = "mailto:lucxshenriquef@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-henrique-61223a26b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Stay%20Focused&section=footer"/>
+<p align="left">
+  <a href="mailto:lucxshenriquef@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-dotcom/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lucashhcf/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <b>Obrigado pela visita! 🚀✨</b>
+</div>
