@@ -8,7 +8,6 @@
 
 ## 🚀 Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Unicesumar**
 - 🛠️ Desenvolvedor **FullStack** 
 - 💼 Analista de Dados na **Tributech**  
   <img src="https://i.imgur.com/zSYrcDD.png" width="120"/>
