@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   Olá, &lt;devs/&gt;!
 </h1>
 
-<img align="right" height="250" width="400" alt="GIF" src="![PyxBr1BIkKOutfAOYdksoRqpFV44JKNjfl62Wus2tZQ](https://github.com/user-attachments/assets/2741668c-bc81-4a41-83c8-591871695210)
-"/>
+<p align="center">
+  <img width="950" height="400" alt="image" src="https://i.pinimg.com/originals/c8/dc/cc/c8dcccc91727a9e134ebbe448498ce1c.gif" />
+</p>
 
 - 👨‍💻 Sou **Analista de Dados** na **Tributech**.
 - 🔭 Meu dia a dia envolve integrações de dados, criar APIs em Python e desenvolver ferramentas para automatizar e otimizar tarefas.
