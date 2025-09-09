@@ -31,15 +31,15 @@
 
 <details open="">
 <summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>Estatísticas do GitHub:</strong>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>Estatísticas do GitHub:</strong>
 </summary>
 <br/>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvcas-dotcom&show_icons=true&hide_border=true&locale=pt-br&title_color=00aeff&icon_color=00aeff&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&text_color=c9d1d9&bg_color=0d1117&title_color=00aeff&langs_count=8&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvcas-dotcom&show_icons=true&hide_border=true&locale=pt-br&title_color=e50914&icon_color=e50914&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&text_color=c9d1d9&bg_color=0d1117&title_color=e50914&langs_count=8&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 </details>
 <br/>
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lvcas-dotcom&theme=react-dark&hide_border=true&area=true)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lvcas-dotcom&bg_color=0d1117&color=e50914&line=e50914&point=ff0000&area=true&hide_border=true)
