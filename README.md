@@ -36,10 +36,10 @@
 </summary>
 <br/>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvcas-dotcom&show_icons=true&hide_border=true&locale=pt-br&title_color=e50914&icon_color=e50914&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&text_color=c9d1d9&bg_color=0d1117&title_color=e50914&langs_count=8&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lvcas-dotcom&show_icons=true&hide_border=true&locale=pt-br&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&text_color=c9d1d9&bg_color=0d1117&title_color=ff0000&langs_count=8&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 </details>
 <br/>
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lvcas-dotcom&bg_color=0d1117&color=e50914&line=e50914&point=ff0000&area=true&hide_border=true)
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=lvcas-dotcom&bg_color=0d1117&color=ff0000&line=ff0000&point=e50914&area=true&hide_border=true)
