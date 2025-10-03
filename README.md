@@ -22,9 +22,9 @@
 
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,express,nextjs,react" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,nestjs,react" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,postman,kali" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,graphql,mongodb,postman,nginx,grafana" />
 </p>
 
 #
