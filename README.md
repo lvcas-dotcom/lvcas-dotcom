@@ -6,7 +6,6 @@
   <img width="950" height="400" alt="image" src="https://i.pinimg.com/originals/c8/dc/cc/c8dcccc91727a9e134ebbe448498ce1c.gif" />
 </p>
 
-- 👨‍💻 Sou **Analista de Dados** na **Tributech**.
 - 🔭 Meu dia a dia envolve integrações de dados, criar APIs em Python e desenvolver ferramentas para automatizar e otimizar tarefas.
 - 🌱 No momento, estou aprofundando meus conhecimentos em **Desenvolvimento Back-end & novas tecnologias de Data Science**.
 - 💬 Me pergunte sobre qualquer coisa [aqui](https://github.com/lvcas-dotcom/lvcas-dotcom/issues)! Ficarei feliz em ajudar.
