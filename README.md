@@ -25,7 +25,7 @@
 </td>
 
 <p align="center">
-  <img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/0ab5ddd5-6c90-4f36-999b-bc41e7fa3ed0" />
+  <img width="1000" height="575" alt="image" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" />
 </p>
 
 
