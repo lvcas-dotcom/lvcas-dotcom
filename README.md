@@ -7,16 +7,16 @@
     Sobre mim
   </h3>
   <p>
-    👨‍💻 Desenvolvedor atuando na área de <strong>Engenharia de Dados</strong> e <strong>Backend</strong>. Foco em construir pipelines <strong>ETL</strong>, integrações e automação/orquestração de fluxos.
+    👨‍💻 Desenvolvedor <strong>FullStack</strong>. Foco em código limpo e arquitetura escalável, integrações e automação/orquestração de fluxos.
   </p>
   <br>
   <p><strong>Meu foco técnico atual:</strong></p>
   <ul>
     <li>
-      <strong>Orquestração:</strong> Criação de workflows focados em Engenharia de Dados utilizando <code>N8N</code> e <code>Python</code>.
+      <strong>Desenvolvimento FullStack:</strong> Atuo como desenvolvedor full-stack com <code>Java Spring Boot</code> e <code>Angular</code>.
     </li>
     <li>
-      <strong>Dados:</strong> Modelagem e manipulação com foco em alta performance em <code>PostgreSQL</code> e <code>BigQuery</code>.
+      <strong>Dados:</strong> Modelagem e manipulação com foco em alta performance em <code>PostgreSQL</code>.
     </li>
     <li>
       <strong>Backend:</strong> Desenvolvimento de <code>APIs RESTful</code>, Microservices e soluções escaláveis para SaaS.
