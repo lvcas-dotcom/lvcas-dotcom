@@ -32,7 +32,7 @@
 
 <h2 align="center">Stacks</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nestjs,fastapi," />
+  <img src="https://skillicons.dev/icons?i=python,nestjs,fastapi,spring,java" />
   <br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,graphql,mongodb,postman,nginx,grafana" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,mongodb,postman,nginx,grafana" />
 </p>
