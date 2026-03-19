@@ -31,14 +31,14 @@
 
 **全 &nbsp;FullStack Dev**
 
-Arquitetura escalável com `Java Spring Boot` no backend e `Angular` no frontend. Do banco à tela, sem intermediários.
+Arquitetura escalável com `Java Spring Boot` no backend e `Angular` no frontend.
 
 </td>
 <td width="33%" valign="top">
 
 **地 &nbsp;Dados**
 
-Modelagem e alta performance com `PostgreSQL`. Queries que cortam como katana.
+Modelagem e performance tunning com `PostgreSQL`.
 
 </td>
 <td width="33%" valign="top">
