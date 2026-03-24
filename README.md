@@ -75,9 +75,10 @@ lvcas@arch ~/projects ⎇ main
 
 ### `GitHub Stats · 統計`
 
-<img src="https://streak-stats.demolab.com?user=lvcas-dotcom&hide_border=true&background=13131a&stroke=252535&ring=c0281a&fire=f5c000&currStreakNum=e8e4de&sideNums=6b6880&currStreakLabel=c0281a&sideLabels=4e4c5e&dates=4e4c5e&border_radius=12" alt="streak"/>
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/lvcas-dotcom">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&layout=compact&langs_count=8&hide_border=true&bg_color=13131a&title_color=c0281a&text_color=6b6880&border_radius=12" alt="langs"/>
+<img height="195" src="https://streak-stats.demolab.com?user=lvcas-dotcom&hide_border=true&background=13131a&stroke=252535&ring=c0281a&fire=f5c000&currStreakNum=e8e4de&sideNums=6b6880&currStreakLabel=c0281a&sideLabels=4e4c5e&dates=4e4c5e&border_radius=12" alt="streak"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/lvcas-dotcom">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcas-dotcom&layout=compact&langs_count=8&hide_border=true&bg_color=13131a&title_color=c0281a&text_color=6b6880&border_radius=12" alt="langs"/>
 </a>
 
 </div>
