@@ -31,7 +31,7 @@
 
 **全 &nbsp;FullStack Dev**
 
-Arquitetura escalável com `Java Spring Boot` no backend e `Angular` no frontend.
+Arquitetura escalável com `Java Spring Boot` e `Golang`.
 
 </td>
 <td width="33%" valign="top">
