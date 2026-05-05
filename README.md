@@ -29,7 +29,7 @@
 <tr>
 <td width="33%" valign="top">
 
-**全 &nbsp;FullStack Dev**
+**全 &nbsp;Development**
 
 Arquitetura escalável com `Java Spring Boot` e `Golang`.
 
