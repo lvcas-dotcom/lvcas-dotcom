@@ -15,7 +15,7 @@
 </div>
 
 > Desenvolvedor **FullStack** com foco em arquitetura escalável,
-> integrações e automação/orquestração de fluxos.
+> integrações, automações e orquestração de fluxos.
 
 ---
 
@@ -31,7 +31,7 @@
 
 **全 &nbsp;Development**
 
-Arquitetura escalável com `Java Spring Boot` e `Golang`.
+Arquitetura escalável com `Java w/ Spring Boot` e `Golang`.
 
 </td>
 <td width="33%" valign="top">
@@ -45,7 +45,7 @@ Modelagem e performance tunning com `PostgreSQL`.
 
 **道 &nbsp;Backend**
 
-`APIs RESTful`, Microservices e SaaS escalável. Arquitetura que sobrevive a qualquer tempestade.
+`APIs RESTful`, `Postman`, `Cloud`, `JWT`.
 
 </td>
 </tr>
@@ -64,7 +64,7 @@ lvcas@arch ~/projects ⎇ main
 ❯ cat about.md
 
 ❯ ls stacks/
-  spring-boot/   angular/   fastapi/  golang/   postgresql/
+  spring-boot/   angular/   python/  golang/   postgresql/
 
 ❯ █
 ```
@@ -121,7 +121,6 @@ lvcas@arch ~/projects ⎇ main
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13131a?style=for-the-badge&logo=postgresql&logoColor=f5c000&labelColor=1a1a26)
 ![MySQL](https://img.shields.io/badge/MySQL-13131a?style=for-the-badge&logo=mysql&logoColor=f5c000&labelColor=1a1a26)
-![MongoDB](https://img.shields.io/badge/MongoDB-13131a?style=for-the-badge&logo=mongodb&logoColor=f5c000&labelColor=1a1a26)
 ![Docker](https://img.shields.io/badge/Docker-13131a?style=for-the-badge&logo=docker&logoColor=c0281a&labelColor=1a1a26)
 ![Nginx](https://img.shields.io/badge/Nginx-13131a?style=for-the-badge&logo=nginx&logoColor=c0281a&labelColor=1a1a26)
 ![Grafana](https://img.shields.io/badge/Grafana-13131a?style=for-the-badge&logo=grafana&logoColor=c0281a&labelColor=1a1a26)
