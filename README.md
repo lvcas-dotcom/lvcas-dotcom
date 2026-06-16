@@ -1,27 +1,22 @@
 <div align="center">
-
-<img src="https://github.com/user-attachments/assets/0de80d53-e89f-4612-92d6-54ba6e902654" width="100%" alt="hero"/>
-
+<img width=100% alt="lvcas_dotcom_hero_banner_v2" src="https://github.com/user-attachments/assets/d5123593-9692-4a4c-8d65-01fe8ba727b9" />
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-### `Sobre mim · 自己紹介`
+### `// about`
+
+FullStack developer focused on scalable architecture, system integrations, workflow automation, and backend engineering.
 
 </div>
 
-> Desenvolvedor **FullStack** com foco em arquitetura escalável,
-> integrações, automações e orquestração de fluxos.
-
 ---
 
 <div align="center">
 
-### `Foco Técnico · 技術`
+### `// focus`
 
 </div>
 
@@ -29,23 +24,23 @@
 <tr>
 <td width="33%" valign="top">
 
-**全 &nbsp;Development**
+**`[ DEV ]`**
 
-Arquitetura escalável com `Java w/ Spring Boot` e `Golang`.
-
-</td>
-<td width="33%" valign="top">
-
-**地 &nbsp;Dados**
-
-Modelagem e performance tunning com `PostgreSQL`.
+Scalable backend systems with `Java + Spring Boot` and `Golang`.
 
 </td>
 <td width="33%" valign="top">
 
-**道 &nbsp;Backend**
+**`[ DATA ]`**
 
-`APIs RESTful`, `Postman`, `Cloud`, `JWT`.
+Data modeling and performance tuning with `PostgreSQL`.
+
+</td>
+<td width="33%" valign="top">
+
+**`[ BACKEND ]`**
+
+`RESTful APIs` · `Cloud` · `JWT` · `Postman`
 
 </td>
 </tr>
@@ -55,17 +50,15 @@ Modelagem e performance tunning com `PostgreSQL`.
 
 <div align="center">
 
-### `Terminal · 端末`
+### `// terminal`
 
 </div>
 
 ```sh
 lvcas@arch ~/projects ⎇ main
 ❯ cat about.md
-
 ❯ ls stacks/
   spring-boot/   angular/   python/  golang/   postgresql/
-
 ❯ █
 ```
 
@@ -73,20 +66,9 @@ lvcas@arch ~/projects ⎇ main
 
 <div align="center">
 
-### `GitHub Stats · 統計`
+### `// stats`
 
-<img height="195" src="https://streak-stats.demolab.com?user=lvcas-dotcom&hide_border=true&background=13131a&stroke=252535&ring=c0281a&fire=f5c000&currStreakNum=e8e4de&sideNums=6b6880&currStreakLabel=c0281a&sideLabels=4e4c5e&dates=4e4c5e&border_radius=12" alt="streak"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
-
----
-
-<div align="center">
-
-### `Contribuições · 活動履歴`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lvcas-dotcom&bg_color=13131a&color=c0281a&line=6b1a1a&point=f5c000&area=true&area_color=3d1010&hide_border=true&radius=12" alt="activity graph"/>
+<img height="195" src="https://streak-stats.demolab.com?user=lvcas-dotcom&hide_border=true&background=292929&stroke=70C169&ring=70C169&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=70C169&currStreakLabel=70C169&sideLabels=FFFFFF&dates=FFFFFF&border_radius=4" alt="streak"/>
 
 </div>
 
@@ -94,45 +76,47 @@ lvcas@arch ~/projects ⎇ main
 
 <div align="center">
 
-### `Stacks · 武器`
+### `// activity`
 
-<br>
-
-**Linguagens & Frameworks**
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-13131a?style=for-the-badge&logo=python&logoColor=f5c000&labelColor=1a1a26)
-![Java](https://img.shields.io/badge/Java-13131a?style=for-the-badge&logo=openjdk&logoColor=f5c000&labelColor=1a1a26)
-![Go](https://img.shields.io/badge/Go-13131a?style=for-the-badge&logo=go&logoColor=f5c000&labelColor=1a1a26)
-![Spring](https://img.shields.io/badge/Spring_Boot-13131a?style=for-the-badge&logo=springboot&logoColor=f5c000&labelColor=1a1a26)
-![Angular](https://img.shields.io/badge/Angular-13131a?style=for-the-badge&logo=angular&logoColor=c0281a&labelColor=1a1a26)
-![NestJS](https://img.shields.io/badge/NestJS-13131a?style=for-the-badge&logo=nestjs&logoColor=c0281a&labelColor=1a1a26)
-![FastAPI](https://img.shields.io/badge/FastAPI-13131a?style=for-the-badge&logo=fastapi&logoColor=c0281a&labelColor=1a1a26)
-
-<br>
-
-**Dados & Infra**
-
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13131a?style=for-the-badge&logo=postgresql&logoColor=f5c000&labelColor=1a1a26)
-![MySQL](https://img.shields.io/badge/MySQL-13131a?style=for-the-badge&logo=mysql&logoColor=f5c000&labelColor=1a1a26)
-![Docker](https://img.shields.io/badge/Docker-13131a?style=for-the-badge&logo=docker&logoColor=c0281a&labelColor=1a1a26)
-![Nginx](https://img.shields.io/badge/Nginx-13131a?style=for-the-badge&logo=nginx&logoColor=c0281a&labelColor=1a1a26)
-![Grafana](https://img.shields.io/badge/Grafana-13131a?style=for-the-badge&logo=grafana&logoColor=c0281a&labelColor=1a1a26)
-![Postman](https://img.shields.io/badge/Postman-13131a?style=for-the-badge&logo=postman&logoColor=c0281a&labelColor=1a1a26)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lvcas-dotcom&bg_color=292929&color=70C169&line=70C169&point=FFFFFF&area=true&area_color=1a3d19&hide_border=true&radius=4" alt="activity graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-<sub>
 
-```
-侍  ·  剣  ·  炎  ·  武  ·  道
-```
+### `// stack`
 
-</sub>
+<br>
+
+**Languages & Frameworks**
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-292929?style=for-the-badge&logo=python&logoColor=70C169&labelColor=1a1a1a)
+![Java](https://img.shields.io/badge/Java-292929?style=for-the-badge&logo=openjdk&logoColor=70C169&labelColor=1a1a1a)
+![Go](https://img.shields.io/badge/Go-292929?style=for-the-badge&logo=go&logoColor=70C169&labelColor=1a1a1a)
+![Spring](https://img.shields.io/badge/Spring_Boot-292929?style=for-the-badge&logo=springboot&logoColor=70C169&labelColor=1a1a1a)
+![Angular](https://img.shields.io/badge/Angular-292929?style=for-the-badge&logo=angular&logoColor=FFFFFF&labelColor=1a1a1a)
+![NestJS](https://img.shields.io/badge/NestJS-292929?style=for-the-badge&logo=nestjs&logoColor=FFFFFF&labelColor=1a1a1a)
+![FastAPI](https://img.shields.io/badge/FastAPI-292929?style=for-the-badge&logo=fastapi&logoColor=70C169&labelColor=1a1a1a)
+
+<br>
+
+**Data & Infrastructure**
+
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292929?style=for-the-badge&logo=postgresql&logoColor=70C169&labelColor=1a1a1a)
+![MySQL](https://img.shields.io/badge/MySQL-292929?style=for-the-badge&logo=mysql&logoColor=70C169&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-292929?style=for-the-badge&logo=docker&logoColor=FFFFFF&labelColor=1a1a1a)
+![Nginx](https://img.shields.io/badge/Nginx-292929?style=for-the-badge&logo=nginx&logoColor=FFFFFF&labelColor=1a1a1a)
+![Grafana](https://img.shields.io/badge/Grafana-292929?style=for-the-badge&logo=grafana&logoColor=70C169&labelColor=1a1a1a)
+![Postman](https://img.shields.io/badge/Postman-292929?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=1a1a1a)
+
+<br>
+
+<sub><code>build · ship · repeat</code></sub>
+
 </div>
