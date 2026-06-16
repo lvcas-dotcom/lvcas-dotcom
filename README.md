@@ -2,8 +2,6 @@
 <img width=100% alt="lvcas_dotcom_hero_banner_v2" src="https://github.com/user-attachments/assets/d5123593-9692-4a4c-8d65-01fe8ba727b9" />
 </div>
 
-<br>
-
 <div align="center">
 
 ### `// about`
